@@ -1,15 +1,20 @@
-# PizzaMan - Site de Pizzeria Artisanale
+# PizzaMan Pizzeria Website
 
-Site web pour PizzaMan, une pizzeria artisanale proposant des pizzas de qualité.
+Site web premium pour la pizzeria PizzaMan.
 
 ## Pages
+- **index.html** - Accueil avec hero, spÃ©cialitÃ©s, tÃ©moignages
+- **menu.html** - Menu interactif avec filtres et panier
+- **login.html** - Connexion/Inscription et profil utilisateur
+- **order.html** - Panier et commande avec livraison/retrait
+- **confirmation.html** - Confirmation avec code de retrait et suivi
 
-- **index.html** — Page d'accueil avec spécialités et témoignages
-- **menu.html** — Menu complet avec filtres et recherche
-- **login.html** — Connexion / Inscription avec système localStorage
-- **order.html** — Commande avec panier dynamique
-- **confirmation.html** — Confirmation de commande avec suivi
+## Design
+- Palette: Rouge (#C0392B), Vert (#27AE60), CrÃ¨me (#FFF8F0), DorÃ© (#F39C12)
+- Google Fonts: Poppins + Playfair Display
+- Font Awesome 6 pour les icÃ´nes
+- Responsive mobile-first
+- Glassmorphism et animations
 
-## Déployé sur GitHub Pages
-
-[https://makidevweb3.github.io/pizzaman-site/](https://makidevweb3.github.io/pizzaman-site/)
+## DÃ©ployÃ© sur GitHub Pages
+https://makidevweb3.github.io/pizzaman-site/
